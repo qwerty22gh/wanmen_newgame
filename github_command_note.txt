@@ -1,0 +1,4 @@
+设置源路径：git remote add origin https://github.com/qwerty22gh/wanmen_newgame.git
+添加到缓存区：git add ./
+提交：git commit -m 'file_name'
+提交到远端：git push -u origin master
