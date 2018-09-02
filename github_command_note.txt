@@ -2,3 +2,4 @@
 添加到缓存区：git add ./
 提交：git commit -m 'file_name'
 提交到远端：git push -u origin master
+直接克隆到远端: git clone https://github.com/qwerty22gh/wanmen_newgame.git
